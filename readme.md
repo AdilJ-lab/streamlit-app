@@ -28,7 +28,7 @@ A Streamlit-based data quality tool for quickly inspecting CSV files.
 
 ## 🌐 Live Demo
 
-Open the CSV Health Inspector: http://localhost:8501
+Open the CSV Health Inspector: https://app-app-ketgupgcyghcfkd5ixwn8r.streamlit.app/
 
 ## 💻 Running Locally
 
