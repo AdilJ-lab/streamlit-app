@@ -36,3 +36,9 @@ Clone the repository:
 
 ```bash
 git clone [https://github.com/AdilJ-lab/streamlit-app.git]
+
+#install packages
+pip install -r requirements.txt
+
+#run app
+streamlit run app.py
