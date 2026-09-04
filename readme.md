@@ -1,3 +1,36 @@
-This is a reliable tool for anyone working with data-sets and need to ensure that the quality of their data is up to standard. This allows you to upload your file of choice in .csv format. In return you will receive an output of simple and easy to understand statistics, letting you know the strengths & weaknesses of your data.
+# 📊 CSV Health Inspector
 
-This app is generated on streamlit, a pyhton UI, providing a quick & simple integration.
+A Streamlit-based data quality tool for quickly inspecting CSV files.
+
+## 🚀 Features
+
+- Upload CSV files
+- Dataset overview
+- Row and column counts
+- Missing data analysis
+- Duplicate row detection
+- Raw data preview
+- Required header auditing
+- Header coverage visualization
+
+## 🛠️ Technologies
+
+- Python
+- Pandas
+- NumPy
+- Streamlit
+
+## 📸 Preview
+
+![CSV Health Inspector](screenshot.png)
+
+## 🌐 Live Demo
+
+[Open the CSV Health Inspector](YOUR_STREAMLIT_APP_URL)
+
+## 💻 Running Locally
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
