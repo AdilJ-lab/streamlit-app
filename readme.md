@@ -22,15 +22,17 @@ A Streamlit-based data quality tool for quickly inspecting CSV files.
 
 ## 📸 Preview
 
-![CSV Health Inspector](screenshot.png)
+[CSV Health Inspector]
+<img width="1500" height="600" alt="preview" src="https://github.com/user-attachments/assets/e4ce7929-e8b2-4436-a2cf-3c86f5ef072b" />
+
 
 ## 🌐 Live Demo
 
-[Open the CSV Health Inspector](YOUR_STREAMLIT_APP_URL)
+Open the CSV Health Inspector: http://localhost:8501
 
 ## 💻 Running Locally
 
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [https://github.com/AdilJ-lab/streamlit-app.git]
